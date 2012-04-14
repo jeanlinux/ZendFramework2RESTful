@@ -1,0 +1,4 @@
+Sample RESTful module using Zend Framework 2 beta3
+
+Note: 
+The XML Serializer adapter uses here is using PEAR XML Serializer (http://pear.php.net/package/XML_Serializer/)
